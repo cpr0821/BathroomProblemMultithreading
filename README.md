@@ -13,9 +13,9 @@ Run:
 
 ./main [arg1] [arg2] [arg3] [arg4] 
 
-arg1 = number of men
-arg2 = number of women
-arg3 = number of toilets
-arg4 = number of iterations
+arg1 = number of toilets\n
+arg2 = number of men\n
+arg3 = number of women\n
+arg4 = number of iterations\n
 
 it works with -lpthred as well
