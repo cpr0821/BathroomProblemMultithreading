@@ -2,7 +2,9 @@
 This program uses semaphores to switch the gender allowed in a bathroom. 
 
 Group Members:
+
 Camryn Rogers
+
 Orlando Garcia
 
 Compile:
