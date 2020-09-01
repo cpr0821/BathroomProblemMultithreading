@@ -24,3 +24,5 @@ arg3 = number of women
 arg4 = number of iterations
 
 it works with -lpthred as well
+
+*****NOTE: I only modified the MyBathroomProblemSolver.cpp file. My TA created the others.
